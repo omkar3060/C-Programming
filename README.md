@@ -1,2 +1,2 @@
 # C-Programming
-A collection of all my C programming codes
+A collection of all most of my C programming codes
